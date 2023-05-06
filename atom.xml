@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wanglike.github.io</id>
+    <title>drifter</title>
+    <updated>2023-05-06T09:15:42.586Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wanglike.github.io"/>
+    <link rel="self" href="https://wanglike.github.io/atom.xml"/>
+    <subtitle>人生若只如初见，何事秋风悲画扇。</subtitle>
+    <logo>https://wanglike.github.io/images/avatar.png</logo>
+    <icon>https://wanglike.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, drifter</rights>
+    <entry>
+        <title type="html"><![CDATA[打鸣收金]]></title>
+        <id>https://wanglike.github.io/post/da-ming-shou-jin/</id>
+        <link href="https://wanglike.github.io/post/da-ming-shou-jin/">
+        </link>
+        <updated>2021-08-31T07:43:54.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浅谈HashMap理解]]></title>
+        <id>https://wanglike.github.io/post/qian-tan-hashmap-li-jie/</id>
+        <link href="https://wanglike.github.io/post/qian-tan-hashmap-li-jie/">
+        </link>
+        <updated>2021-08-30T10:00:32.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[打卡]]></title>
+        <id>https://wanglike.github.io/post/da-qia/</id>
+        <link href="https://wanglike.github.io/post/da-qia/">
+        </link>
+        <updated>2021-08-30T07:18:32.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[收盘了]]></title>
+        <id>https://wanglike.github.io/post/shou-pan-liao/</id>
+        <link href="https://wanglike.github.io/post/shou-pan-liao/">
+        </link>
+        <updated>2021-08-27T07:16:40.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑色星期四，习惯了]]></title>
+        <id>https://wanglike.github.io/post/hei-se-xing-qi-si-xi-guan-liao/</id>
+        <link href="https://wanglike.github.io/post/hei-se-xing-qi-si-xi-guan-liao/">
+        </link>
+        <updated>2021-08-26T08:03:17.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[收盘，大盘连续3天逼空上涨，舒服]]></title>
+        <id>https://wanglike.github.io/post/shou-pan-da-pan-lian-xu-3-tian-bi-kong-shang-zhang-shu-fu/</id>
+        <link href="https://wanglike.github.io/post/shou-pan-da-pan-lian-xu-3-tian-bi-kong-shang-zhang-shu-fu/">
+        </link>
+        <updated>2021-08-25T07:49:58.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[收工]]></title>
+        <id>https://wanglike.github.io/post/shou-gong/</id>
+        <link href="https://wanglike.github.io/post/shou-gong/">
+        </link>
+        <updated>2021-08-24T07:07:44.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[收盘]]></title>
+        <id>https://wanglike.github.io/post/shou-pan/</id>
+        <link href="https://wanglike.github.io/post/shou-pan/">
+        </link>
+        <updated>2021-08-23T07:00:10.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[怎么管理情绪？]]></title>
+        <id>https://wanglike.github.io/post/zen-me-guan-li-qing-xu/</id>
+        <link href="https://wanglike.github.io/post/zen-me-guan-li-qing-xu/">
+        </link>
+        <updated>2021-07-31T02:31:24.000Z</updated>
+    </entry>
+</feed>
